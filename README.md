@@ -1,2 +1,2 @@
 # Shiny-Dex
-- Your dex for shiny hunt - 
+-- Your dex for shiny hunt --
